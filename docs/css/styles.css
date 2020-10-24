@@ -10157,7 +10157,7 @@ body {
   padding: 0.9rem 0;
 }
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(#fff, 25%);
+  color: fade(#fff, 80%);
   outline: none;
   background-color: transparent;
 }
@@ -10180,7 +10180,7 @@ body {
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 2);
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
